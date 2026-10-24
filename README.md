@@ -1,16 +1,21 @@
-## Hi there 👋
+# Joel Santana
 
-<!--
-**joejonsss/joejonsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Licenciatura en Ingeniería de Sistemas y Computación** en la Universidad Tecnológica de Panamá.
 
-Here are some ideas to get you started:
+Me gusta entender cómo funcionan las cosas y aprendo practicando: programo, me equivoco, busco el error y lo corrijo. Este perfil es mi portafolio en construcción, donde iré guardando los proyectos que realice durante la carrera.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Lenguajes y herramientas
+- C#
+- C++
+- Microsoft Word y PowerPoint
+- Canva
+
+## Proyectos
+- **Sistema de selección de personal (C#)**: programa para gestionar el proceso de selección de candidatos en una empresa. Proyecto semestral desarrollado en equipo.
+- **Prácticas de programación (C++)**: ejercicios con arreglos, matrices y estructuras de control.
+
+## Objetivo
+Seguir mejorando mis habilidades en programación y adquirir experiencia en el desarrollo de software.
+
+## Contacto
+joeljon705@gmail.com
